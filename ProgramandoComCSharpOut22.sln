@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Capitulo01.Variaveis", "CSharp.Capitulo01.Variaveis\CSharp.Capitulo01.Variaveis.csproj", "{386C34D5-9E13-47FF-A038-C756329A8097}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Capitulo02.ValeTransporte", "CSharp.Capitulo02.ValeTransporte\CSharp.Capitulo02.ValeTransporte.csproj", "{96596684-5C5E-476F-9A30-4C919ADECC89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Capitulo03.GerenciadorSenha", "CSharp.Capitulo03.GerenciadorSenha\CSharp.Capitulo03.GerenciadorSenha.csproj", "{0E5E668E-0F52-4D18-8008-8BD93292EFE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{386C34D5-9E13-47FF-A038-C756329A8097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{386C34D5-9E13-47FF-A038-C756329A8097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{386C34D5-9E13-47FF-A038-C756329A8097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96596684-5C5E-476F-9A30-4C919ADECC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96596684-5C5E-476F-9A30-4C919ADECC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96596684-5C5E-476F-9A30-4C919ADECC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96596684-5C5E-476F-9A30-4C919ADECC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5E668E-0F52-4D18-8008-8BD93292EFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5E668E-0F52-4D18-8008-8BD93292EFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5E668E-0F52-4D18-8008-8BD93292EFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5E668E-0F52-4D18-8008-8BD93292EFE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
